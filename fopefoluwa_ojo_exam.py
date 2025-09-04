@@ -51,18 +51,18 @@ while True:
 
 
 # # Question 2
-# while True:
-#     user_input = input("enter a number(or type 'exit to quit):")
-#     if user_input == "exit":
-#         print("Goodbye!")
-#     else:
-#          break 
+while True:
+    user_input = input("enter a number(or type 'exit to quit):")
+    if user_input == "exit":
+        print("Goodbye!")
+    else:
+         break 
     
-#     num = int(input("enter a number: "))
-#     if num % 2 == 0:
-#         print("The number is an even number")  
-#     else:
-#         print("The number is an odd number")
+    num = int(input("enter a number: "))
+    if num % 2 == 0:
+        print("The number is an even number")  
+    else:
+        print("The number is an odd number")
         
 #question 3
 while True:
